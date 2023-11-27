@@ -19,7 +19,7 @@ I'm currently focused on expanding my skills in web development and computer eng
 
 ## 🌐 Portfolio
 
-Check out my portfolio at [Mobindas](mobindas.github.io/portfolio.com)
+Check out my portfolio at [Mobindas](https://mobindaz.github.io/portfolio/)
 
 <!-- Feel free to add more sections or customize it as per your preference -->
 

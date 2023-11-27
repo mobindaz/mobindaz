@@ -5,8 +5,8 @@ I'm a passionate web developer currently studying Computer Engineering.
 ## 🔧 Technologies & Tools
 
 - HTML, CSS, JavaScript
-- React, Node.js
-- Git, GitHub
+- C , Python , Shell Script
+-  GitHub
 
 ## 📚 Learning
 

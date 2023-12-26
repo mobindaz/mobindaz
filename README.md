@@ -2,7 +2,7 @@
 
   I'm a computer  student passionate about coding and technology.
 
-*Beyond the lines of code, I engage in collaborative projects, seeking to apply my knowledge in practical, meaningful ways. I believe in the power of technology to drive positive change, and I'm enthusiastic about contributing to the tech community.Always open to learning, connecting, and exploring new opportunities in the vast landscape of computer science. Let's connect and build something amazing together!*
+*Beyond the lines of code, I engage in collaborative projects, seeking to apply my knowledge in practical, meaningful ways. I believe in the power of technology to drive positive change, and I'm enthusiastic about contributing to the tech community.Always open to learning, connecting, and exploring new opportunities in the vast landscape of computer engineering. Let's connect and build something amazing together!*
 
 - 🎓 Currently pursuing a diploma in Computer Engineering.
 - 💻 Proficient in Python, C, HTML, and CSS.
